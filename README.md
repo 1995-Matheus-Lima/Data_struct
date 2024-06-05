@@ -1,2 +1,2 @@
 # Data_struct
-There are the c++ codes that i did when i was training to improve my acknowledgement about data structure
+There are the codes that developed during the Data Structure Course, avaliable on https://www.youtube.com/playlist?list=PLrOyM49ctTx_AMgNGQaic10qQJpTpXfn_ , aplied by PhD Douglas Maioli.
